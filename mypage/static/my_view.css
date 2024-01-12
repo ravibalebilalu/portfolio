@@ -1,7 +1,41 @@
 h1{
     color: blue;
 }
+.name_p{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.welcome{
+    text-align: center;
+}
+.welcome_p{
+    font-size: 40px;
+    color: green;
+    font-weight: bold;
+}
 .heading{
     color: green;
-    font-size: 45px;
+    font-size:25px;
+    font-weight: bold;
+}
+
+.ad_heading{
+    color: blue;
+    font-size:25px;
+    font-weight: bold;
+}
+.lines{
+    font-size: 18px;
+    
+}
+p{
+    font-size: 20px;
+}
+
+.thanks{
+    font-size: 25px;
+    color: blue;
+    text-align: center;
 }
